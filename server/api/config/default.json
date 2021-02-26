@@ -1,0 +1,9 @@
+{
+    "database": {
+        "ip": "localhost",
+        "port": 5432,
+        "user": "events-admin",
+        "password": "Campinas@2021",
+        "database": "events-dev"
+    }
+}
